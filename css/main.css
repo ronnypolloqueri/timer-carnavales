@@ -19,22 +19,18 @@ div{
 }
 
 .footer{
+    position: absolute;
     font-size: 40px;
-    position: fixed;
     bottom: 10px;
     left: 0;
     right: 0;
-    text-align: center;
 }
 
 #btn-inicio {
-    /*
-    position: fixed;
-    bottom: 45%;
-    left: 47%;
-    right: 47%;
-    width: 6%;
-    */
+    position: absolute;
+    bottom: 150px;
+    left: 0;
+    right: 0;
 }
 
 #timer-message #msg{
