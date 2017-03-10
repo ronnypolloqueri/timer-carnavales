@@ -1,0 +1,62 @@
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+    
+  /* Preserve aspet ratio */
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+div{
+    text-align: center;
+}
+
+#grupo{
+    margin-top: 50px;
+    font-size: 80px;
+}
+
+.footer{
+    font-size: 40px;
+    position: fixed;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+#btn-inicio {
+    /*
+    position: fixed;
+    bottom: 45%;
+    left: 47%;
+    right: 47%;
+    width: 6%;
+    */
+}
+
+#timer-message #msg{
+    font-size: 160px !important;
+}
+
+#timer-message #timer{
+    font-size: 250px !important;
+}
+
+#timer4{
+    font-size: 80px !important;
+}
+
+.btn {
+    text-align: center;
+}
+
+.color-warning {
+    color: orange;
+}
+
+.color-danger {
+    color: red;
+}
