@@ -56,3 +56,11 @@ div{
 .color-danger {
     color: red;
 }
+
+/*
+.dropdown-menu {
+    max-height: 100px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+*/
